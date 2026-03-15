@@ -6,7 +6,7 @@ st.set_page_config(page_title="DormHarmony", page_icon="🏠")
 
 # 2. DATA LOADING (The Fail-Proof Way)
 # PASTE YOUR PUBLISHED CSV URL INSIDE THE QUOTES BELOW
-CSV_URL = "YOUR_PUBLISHED_CSV_URL_HERE"
+CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQUNeNw8MdyG09A8o2P5K-5eGaTQfC5EpOhfGEKNQ70ZlqtsQd5nAyrdGEeL43cMqeBukEuHiztNhiK/pub?output=csv"
 
 def load_data():
     try:
