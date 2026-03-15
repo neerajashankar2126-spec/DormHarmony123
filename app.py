@@ -46,7 +46,7 @@ st.write("---")
 # --- USER INPUT SIDEBAR ---
 with st.sidebar:
     st.header("🎚️ Your Preferences")
-    u_name = st.text_input("Full Name", value="Neeraja")
+    u_name = st.text_input("Full Name", value="")
     
     s1 = st.slider("Sleep (Early -> Late)", 1, 5, 3)
     s2 = st.slider("Cleanliness (Messy -> Neat)", 1, 5, 3)
