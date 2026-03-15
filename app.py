@@ -61,4 +61,4 @@ if st.button("🚀 Find Matches"):
                 st.progress(int(score))
 
 st.write("---")
-st.caption("SRM KTR Solo Project | Neeraja")
+st.caption("AI Project | Sreeya, Neeraja, Lakshmi")
